@@ -67,3 +67,4 @@ module ChefApply
   class APIError < Error
   end
 end
+
